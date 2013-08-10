@@ -1,0 +1,10 @@
+Package: yavdr-addon-leapcast
+Version: 0.0.1~git201308101745-1yavdr1
+Architecture: all
+Maintainer: Gerald Dachs <gda@dachsweb.de>
+Installed-Size: 30
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

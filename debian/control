@@ -1,0 +1,15 @@
+Source: yavdr-addon-leapcast
+Section: misc
+Priority: extra
+Maintainer: Gerald Dachs <gda@dachsweb.de>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/yavdr/yavdr-addon-leapcast
+#Vcs-Git: git://git.debian.org/collab-maint/yavdr-addon-leapcast.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/yavdr-addon-leapcast.git;a=summary
+
+Package: yavdr-addon-leapcast
+Architecture: all
+Depends: ${misc:Depends} leapcast
+Description: yavdr setup for leapcast, the chromecast emulator
+ yavdr setup for leapcast, the chromecast emulator
